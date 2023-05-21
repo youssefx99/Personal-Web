@@ -1,4 +1,4 @@
-# Personal-Web [HTML, CSS, JS] <<Front-End>>
+# Personal-Web [HTML, CSS, JS] <"<Front-End>">
 Personal Website for my projects and Activates.
 
 This project was challenging at times, but I'm proud of what I accomplished.
